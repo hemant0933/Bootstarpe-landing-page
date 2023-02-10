@@ -18,8 +18,3 @@ $('.owl-carousel').owlCarousel({
         }
     }
 })
-
-// document.querySelector('.box').addEventListener('onMouseOver', (e) => 
-// { if(e.target.classList.contains('getting-started-btn')) 
-// { document.querySelector('.box').style.border = '2px solid black'; } })
-

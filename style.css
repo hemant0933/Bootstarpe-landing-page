@@ -5,9 +5,7 @@
     padding: 0;
     box-sizing: border-box;
 }
-/* .navbar-toggler-icon{
-    margin-right: 10px;
-} */
+
 body{
     overflow-x: hidden;
     font-family: var(--primary-font);
